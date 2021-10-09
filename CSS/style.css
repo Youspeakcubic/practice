@@ -2,6 +2,7 @@ h1{
   margin-top: 0px;
 }
 body{
+  text-align: center;
   margin-top: 0px;
 }
 div{
@@ -25,4 +26,11 @@ height:200px;
 border:10px solid;
 background-color: yellow;
 
+}
+.bottomCloud{
+  position:absolute;
+}
+.topCloud{
+  position: relative;
+  left:150px;
 }
