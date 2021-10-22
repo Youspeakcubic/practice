@@ -1,5 +1,17 @@
 h1{
   margin-top: 0px;
+  font-family: 'Festive', cursive;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+  line-height: 2;
+}
+h2{
+  font-family: 'Andada Pro', serif;
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+  line-height: 2;
 }
 body{
   text-align: center;
@@ -14,17 +26,9 @@ div{
     padding:20px;
 }
 .midCont{
-  width:200px;
-  height:200px;
-  border:20px solid;
-  background-color: red;
 
 }
 .bottomCont{
-width: 200px;
-height:200px;
-border:10px solid;
-background-color: yellow;
 
 }
 .bottomCloud{
